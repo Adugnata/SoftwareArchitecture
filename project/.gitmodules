@@ -1,0 +1,30 @@
+[submodule "swa-rest-client"]
+	path = swa-rest-client
+	url = https://github.com/abenitrust/swa-rest-client
+[submodule "swa-api-gateway"]
+	path = swa-api-gateway
+	url = https://github.com/abenitrust/swa-api-gateway
+[submodule "swa-product-service"]
+	path = swa-product-service
+	url = https://github.com/abenitrust/swa-product-service
+[submodule "swa-cart-query-service"]
+	path = swa-cart-query-service
+	url = https://github.com/abenitrust/swa-cart-query-service
+[submodule "swa_config"]
+	path = swa_config
+	url = https://github.com/abenitrust/swa_config
+[submodule "swa-customer-service"]
+	path = swa-customer-service
+	url = https://github.com/abenitrust/swa-customer-service
+[submodule "swa-eureka"]
+	path = swa-eureka
+	url = https://github.com/abenitrust/swa-eureka
+[submodule "swa-order-service"]
+	path = swa-order-service
+	url = https://github.com/abenitrust/swa-order-service
+[submodule "swa-cart-command-service"]
+	path = swa-cart-command-service
+	url = https://github.com/abenitrust/swa-cart-command-service
+[submodule "swa-config-service"]
+	path = swa-config-service
+	url = https://github.com/abenitrust/swa-config-service

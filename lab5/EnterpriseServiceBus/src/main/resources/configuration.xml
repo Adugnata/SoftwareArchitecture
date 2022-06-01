@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns="http://www.springframework.org/schema/integration"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:beans="http://www.springframework.org/schema/beans"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+			http://www.springframework.org/schema/beans/spring-beans.xsd
+			http://www.springframework.org/schema/integration
+			http://www.springframework.org/schema/integration/spring-integration.xsd">
+
+	<channel id="warehousechannel"/>
+	<channel id="normalshippingchannel"/>
+	<channel id="nextdayshippingchannel"/>
+	<channel id="internationalshippingchannel"/>
+	<channel id="domesticshippingchannel"/>
+	<channel id="shippingchannel"/>
+
+	<service-activator input-channel="warehousechannel"
+	                   ref="warehouseservice"
+	                   method="checkStock"
+					   output-channel="shippingchannel"/>
+
+	<router id="orderTypeShippingMethodRouter" ref="orderTypeShippingRouter" input-channel="shippingchannel"/>
+	<router id="domesticShippingMethodRouter" ref="domesticShippingRouter" input-channel="domesticshippingchannel"/>
+
+	<service-activator input-channel="normalshippingchannel"
+	                   ref="normalshippingservice"
+	                   method="ship"/>
+
+	<service-activator input-channel="nextdayshippingchannel"
+					   ref="nextdayshippingservice"
+					   method="ship"/>
+
+	<service-activator input-channel="internationalshippingchannel"
+					   ref="internationalshippingservice"
+					   method="ship"/>
+	                   
+	<beans:bean id="warehouseservice" class="com.enterpriseservicebus.WarehouseActivator"/>
+	<beans:bean id="normalshippingservice" class="com.enterpriseservicebus.NormalShippingActivator"/>
+	<beans:bean id="nextdayshippingservice" class="com.enterpriseservicebus.NextDayShippingActivator"/>
+	<beans:bean id="domesticShippingRouter" class="com.enterpriseservicebus.DomesticShippingRouter"/>
+	<beans:bean id="orderTypeShippingRouter" class="com.enterpriseservicebus.OrderTypeShippingRouter"/>
+	<beans:bean id="internationalshippingservice" class="com.enterpriseservicebus.InternationalShippingActivator"/>
+	
+</beans:beans>

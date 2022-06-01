@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns="http://www.springframework.org/schema/integration"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:beans="http://www.springframework.org/schema/beans"
+             xsi:schemaLocation="http://www.springframework.org/schema/beans
+			http://www.springframework.org/schema/beans/spring-beans.xsd
+			http://www.springframework.org/schema/integration
+			http://www.springframework.org/schema/integration/spring-integration.xsd">
+
+    <channel id="orderreceivechannel" />
+    <channel id="orderservicechannel" />
+    <channel id="rushorderservicechannel" />
+    <channel id="largeorderservicechannel" />
+    <router method="route" input-channel="orderreceivechannel">
+        <beans:bean class="com.order.OrderRouter" />
+    </router>
+    <service-activator input-channel="orderservicechannel"
+                       ref="orderservice" method="handle" />
+    <service-activator input-channel="rushorderservicechannel"
+                       ref="rushorderservice" method="handle" />
+    <service-activator input-channel="largeorderservicechannel"
+                       ref="largeorderservice" method="handle" />
+    <beans:bean id="orderservice" class="com.order.OrderService" />
+    <beans:bean id="rushorderservice" class="com.order.RushOrderService" />
+    <beans:bean id="largeorderservice" class="com.order.LargeOrderService" />
+
+    <filter input-channel="orderreceivechannel" output-channel="orderservicechannel"
+            ref="orderfilter" method="filter"/>
+    <service-activator input-channel="orderservicechannel"
+                       ref="orderservice" method="handle" />
+    <beans:bean id="orderservice" class="com.order.OrderService" />
+    <beans:bean id="orderfilter" class="com.order.OrderFilter" />
+</beans:beans>

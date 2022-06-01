@@ -1,0 +1,31 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: ProductGateway
+
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+  instance:
+    hostname: localhost
+
+
+zuul:
+  host:
+    connect-timeout-millis: 5000000
+    socket-timeout-millis: 5000000
+  ignoredServices: '*'
+  routes:
+    stock-service:
+      path: /stock/**
+      serviceId: StockService
+      stripPrefix: true
+    product-service:
+      path: /products/**
+      serviceId: ProductService
+      stripPrefix: true
+

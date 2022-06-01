@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lab4/webshop/pom.xml" />
+        <option value="$PROJECT_DIR$/lab4/webshopclient/pom.xml" />
+        <option value="$PROJECT_DIR$/lab4/SpringIntegration/pom.xml" />
+        <option value="$PROJECT_DIR$/lab5/order/pom.xml" />
+        <option value="$PROJECT_DIR$/lab5/OrderService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab5/ShippingService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab5/WareHouseService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab5/EnterpriseServiceBus/pom.xml" />
+        <option value="$PROJECT_DIR$/lab7/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/lab7/StockService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab7/ProductService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab8/part1/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/lab8/part1/StockService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab8/part1/ProductService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab8/part2/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/lab8/part2/StockService1/pom.xml" />
+        <option value="$PROJECT_DIR$/lab8/part2/StockService2/pom.xml" />
+        <option value="$PROJECT_DIR$/lab8/part2/ProductService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab8/part3/ZuulGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/lab8/part3/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/lab8/part3/StockService1/pom.xml" />
+        <option value="$PROJECT_DIR$/lab8/part3/StockService2/pom.xml" />
+        <option value="$PROJECT_DIR$/lab8/part3/ProductService/pom.xml" />
+        <option value="$PROJECT_DIR$/project/swa-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/project/swa-api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/project/swa-rest-client/pom.xml" />
+        <option value="$PROJECT_DIR$/project/swa-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/project/swa-config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/project/swa-product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/project/swa-customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/project/swa-cart-query-service/pom.xml" />
+        <option value="$PROJECT_DIR$/project/swa-cart-command-service/pom.xml" />
+        <option value="$PROJECT_DIR$/BookClient/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9_part1/part1/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9_part1/part1/StockService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9_part1/part1/ProductService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9_part1/part2/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9_part1/part2/StockService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9_part1/part2/ProductService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9_part1/part3/EvenOdd/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9_part1/part3/MathService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9_part2/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9_part2/StockService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9_part2/ProductService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9_part3/EvenOdd/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9_part3/MathService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab10_part1/ProductQueryService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab10_part1/StockCommandService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab10_part1/ProductCommandService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab10_part2/ServiceA/pom.xml" />
+        <option value="$PROJECT_DIR$/lab10_part2/ServiceB/pom.xml" />
+        <option value="$PROJECT_DIR$/lab10_part2/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/lab10_part3/ServiceA/pom.xml" />
+        <option value="$PROJECT_DIR$/lab10_part3/ServiceB/pom.xml" />
+        <option value="$PROJECT_DIR$/lab10_part3/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/lab11_part1/SecureServiceA/pom.xml" />
+        <option value="$PROJECT_DIR$/lab11_part1/SecureServiceB/pom.xml" />
+        <option value="$PROJECT_DIR$/lab11_part1/SecureServiceC/pom.xml" />
+        <option value="$PROJECT_DIR$/lab11_part1/AuthorizationServer/pom.xml" />
+        <option value="$PROJECT_DIR$/lab11_part3/BankClient/pom.xml" />
+        <option value="$PROJECT_DIR$/lab11_part3/BankOrchestrator/pom.xml" />
+        <option value="$PROJECT_DIR$/lab11_part3/SavingAccountService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab11_part3/CheckingAccountService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab12_part1/KafkaSender/pom.xml" />
+        <option value="$PROJECT_DIR$/lab12_part1/OwnerService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab12_part1/KafkaReceiver/pom.xml" />
+        <option value="$PROJECT_DIR$/lab12_part1/FeeCalculatorService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab12_part1/InterStateSpeedService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab12_part1/InterStateTrafficSensor/pom.xml" />
+        <option value="$PROJECT_DIR$/lab12_part2/OwnerService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab12_part2/FeeCalculatorService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab12_part2/InterStateSpeedService/pom.xml" />
+        <option value="$PROJECT_DIR$/lab12_part2/InterStateTrafficSensor/pom.xml" />
+        <option value="$PROJECT_DIR$/BookReceiver/pom.xml" />
+        <option value="$PROJECT_DIR$/BookApplication/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

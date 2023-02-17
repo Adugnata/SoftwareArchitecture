@@ -10,7 +10,7 @@
         <!--  lookup parent from repository  -->
     </parent>
     <groupId>com.swa</groupId>
-    <artifactId>ConfigService</artifactId>
+    <artifactId>swa-config-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ConfigService</name>
     <description>Shopping App ConfigService</description>

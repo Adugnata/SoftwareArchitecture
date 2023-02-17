@@ -10,7 +10,7 @@
         <!--  lookup parent from repository  -->
     </parent>
     <groupId>com.swa</groupId>
-    <artifactId>order-service</artifactId>
+    <artifactId>swa-order-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>OrderService</name>
     <description>Shopping App OrderService Application</description>

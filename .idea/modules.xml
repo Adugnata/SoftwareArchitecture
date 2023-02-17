@@ -9,61 +9,73 @@
       <module fileurl="file://$PROJECT_DIR$/BookReceiver/BookReceiver.iml" filepath="$PROJECT_DIR$/BookReceiver/BookReceiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab11_part3/CheckingAccountService/CheckingAccountService.iml" filepath="$PROJECT_DIR$/lab11_part3/CheckingAccountService/CheckingAccountService.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab10_part2/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/lab10_part2/ConfigServer/ConfigServer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab10_part3/ConfigServer/ConfigServer (1).iml" filepath="$PROJECT_DIR$/lab10_part3/ConfigServer/ConfigServer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab10_part2/ConfigServer/ConfigServer (1).iml" filepath="$PROJECT_DIR$/lab10_part2/ConfigServer/ConfigServer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab10_part3/ConfigServer/ConfigServer (2).iml" filepath="$PROJECT_DIR$/lab10_part3/ConfigServer/ConfigServer (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/project/swa-config-service/ConfigService.iml" filepath="$PROJECT_DIR$/project/swa-config-service/ConfigService.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab5/EnterpriseServiceBus/EnterpriseServiceBus.iml" filepath="$PROJECT_DIR$/lab5/EnterpriseServiceBus/EnterpriseServiceBus.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab7/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/lab7/EurekaServer/EurekaServer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab8/part1/EurekaServer/EurekaServer (1).iml" filepath="$PROJECT_DIR$/lab8/part1/EurekaServer/EurekaServer (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab8/part2/EurekaServer/EurekaServer (2).iml" filepath="$PROJECT_DIR$/lab8/part2/EurekaServer/EurekaServer (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab8/part3/EurekaServer/EurekaServer (3).iml" filepath="$PROJECT_DIR$/lab8/part3/EurekaServer/EurekaServer (3).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part1/EurekaServer/EurekaServer (4).iml" filepath="$PROJECT_DIR$/lab9_part1/part1/EurekaServer/EurekaServer (4).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part2/EurekaServer/EurekaServer (5).iml" filepath="$PROJECT_DIR$/lab9_part1/part2/EurekaServer/EurekaServer (5).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab9_part2/EurekaServer/EurekaServer (6).iml" filepath="$PROJECT_DIR$/lab9_part2/EurekaServer/EurekaServer (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab7/EurekaServer/EurekaServer (1).iml" filepath="$PROJECT_DIR$/lab7/EurekaServer/EurekaServer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8/part1/EurekaServer/EurekaServer (2).iml" filepath="$PROJECT_DIR$/lab8/part1/EurekaServer/EurekaServer (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8/part2/EurekaServer/EurekaServer (3).iml" filepath="$PROJECT_DIR$/lab8/part2/EurekaServer/EurekaServer (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8/part3/EurekaServer/EurekaServer (4).iml" filepath="$PROJECT_DIR$/lab8/part3/EurekaServer/EurekaServer (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part1/EurekaServer/EurekaServer (5).iml" filepath="$PROJECT_DIR$/lab9_part1/part1/EurekaServer/EurekaServer (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part2/EurekaServer/EurekaServer (6).iml" filepath="$PROJECT_DIR$/lab9_part1/part2/EurekaServer/EurekaServer (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_part2/EurekaServer/EurekaServer (7).iml" filepath="$PROJECT_DIR$/lab9_part2/EurekaServer/EurekaServer (7).iml" />
       <module fileurl="file://$PROJECT_DIR$/lab9_part1/part3/EvenOdd/EvenOdd.iml" filepath="$PROJECT_DIR$/lab9_part1/part3/EvenOdd/EvenOdd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab9_part3/EvenOdd/EvenOdd (1).iml" filepath="$PROJECT_DIR$/lab9_part3/EvenOdd/EvenOdd (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part3/EvenOdd/EvenOdd (1).iml" filepath="$PROJECT_DIR$/lab9_part1/part3/EvenOdd/EvenOdd (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_part3/EvenOdd/EvenOdd (2).iml" filepath="$PROJECT_DIR$/lab9_part3/EvenOdd/EvenOdd (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/lab12_part1/FeeCalculatorService/FeeCalculatorService.iml" filepath="$PROJECT_DIR$/lab12_part1/FeeCalculatorService/FeeCalculatorService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab12_part2/FeeCalculatorService/FeeCalculatorService (1).iml" filepath="$PROJECT_DIR$/lab12_part2/FeeCalculatorService/FeeCalculatorService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab12_part1/FeeCalculatorService/FeeCalculatorService (1).iml" filepath="$PROJECT_DIR$/lab12_part1/FeeCalculatorService/FeeCalculatorService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab12_part2/FeeCalculatorService/FeeCalculatorService (2).iml" filepath="$PROJECT_DIR$/lab12_part2/FeeCalculatorService/FeeCalculatorService (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/lab12_part1/InterStateSpeedService/InterStateSpeedService.iml" filepath="$PROJECT_DIR$/lab12_part1/InterStateSpeedService/InterStateSpeedService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab12_part2/InterStateSpeedService/InterStateSpeedService (1).iml" filepath="$PROJECT_DIR$/lab12_part2/InterStateSpeedService/InterStateSpeedService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab12_part1/InterStateSpeedService/InterStateSpeedService (1).iml" filepath="$PROJECT_DIR$/lab12_part1/InterStateSpeedService/InterStateSpeedService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab12_part2/InterStateSpeedService/InterStateSpeedService (2).iml" filepath="$PROJECT_DIR$/lab12_part2/InterStateSpeedService/InterStateSpeedService (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/lab12_part1/InterStateTrafficSensor/InterStateTrafficSensor.iml" filepath="$PROJECT_DIR$/lab12_part1/InterStateTrafficSensor/InterStateTrafficSensor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab12_part2/InterStateTrafficSensor/InterStateTrafficSensor (1).iml" filepath="$PROJECT_DIR$/lab12_part2/InterStateTrafficSensor/InterStateTrafficSensor (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab12_part1/InterStateTrafficSensor/InterStateTrafficSensor (1).iml" filepath="$PROJECT_DIR$/lab12_part1/InterStateTrafficSensor/InterStateTrafficSensor (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab12_part2/InterStateTrafficSensor/InterStateTrafficSensor (2).iml" filepath="$PROJECT_DIR$/lab12_part2/InterStateTrafficSensor/InterStateTrafficSensor (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/lab12_part1/KafkaReceiver/KafkaReceiver.iml" filepath="$PROJECT_DIR$/lab12_part1/KafkaReceiver/KafkaReceiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab12_part1/KafkaSender/KafkaSender.iml" filepath="$PROJECT_DIR$/lab12_part1/KafkaSender/KafkaSender.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab9_part1/part3/MathService/MathService.iml" filepath="$PROJECT_DIR$/lab9_part1/part3/MathService/MathService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab9_part3/MathService/MathService (1).iml" filepath="$PROJECT_DIR$/lab9_part3/MathService/MathService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part3/MathService/MathService (1).iml" filepath="$PROJECT_DIR$/lab9_part1/part3/MathService/MathService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_part3/MathService/MathService (2).iml" filepath="$PROJECT_DIR$/lab9_part3/MathService/MathService (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/lab5/OrderService/OrderService.iml" filepath="$PROJECT_DIR$/lab5/OrderService/OrderService.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab12_part1/OwnerService/OwnerService.iml" filepath="$PROJECT_DIR$/lab12_part1/OwnerService/OwnerService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab12_part2/OwnerService/OwnerService (1).iml" filepath="$PROJECT_DIR$/lab12_part2/OwnerService/OwnerService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab12_part1/OwnerService/OwnerService (1).iml" filepath="$PROJECT_DIR$/lab12_part1/OwnerService/OwnerService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab12_part2/OwnerService/OwnerService (2).iml" filepath="$PROJECT_DIR$/lab12_part2/OwnerService/OwnerService (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/lab10_part1/ProductCommandService/ProductCommandService.iml" filepath="$PROJECT_DIR$/lab10_part1/ProductCommandService/ProductCommandService.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab10_part1/ProductQueryService/ProductQueryService.iml" filepath="$PROJECT_DIR$/lab10_part1/ProductQueryService/ProductQueryService.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab7/ProductService/ProductService.iml" filepath="$PROJECT_DIR$/lab7/ProductService/ProductService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab8/part1/ProductService/ProductService (1).iml" filepath="$PROJECT_DIR$/lab8/part1/ProductService/ProductService (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab8/part2/ProductService/ProductService (2).iml" filepath="$PROJECT_DIR$/lab8/part2/ProductService/ProductService (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab8/part3/ProductService/ProductService (3).iml" filepath="$PROJECT_DIR$/lab8/part3/ProductService/ProductService (3).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part1/ProductService/ProductService (4).iml" filepath="$PROJECT_DIR$/lab9_part1/part1/ProductService/ProductService (4).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part2/ProductService/ProductService (5).iml" filepath="$PROJECT_DIR$/lab9_part1/part2/ProductService/ProductService (5).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab9_part2/ProductService/ProductService (6).iml" filepath="$PROJECT_DIR$/lab9_part2/ProductService/ProductService (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab7/ProductService/ProductService (1).iml" filepath="$PROJECT_DIR$/lab7/ProductService/ProductService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8/part1/ProductService/ProductService (2).iml" filepath="$PROJECT_DIR$/lab8/part1/ProductService/ProductService (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8/part2/ProductService/ProductService (3).iml" filepath="$PROJECT_DIR$/lab8/part2/ProductService/ProductService (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8/part3/ProductService/ProductService (4).iml" filepath="$PROJECT_DIR$/lab8/part3/ProductService/ProductService (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part1/ProductService/ProductService (5).iml" filepath="$PROJECT_DIR$/lab9_part1/part1/ProductService/ProductService (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part2/ProductService/ProductService (6).iml" filepath="$PROJECT_DIR$/lab9_part1/part2/ProductService/ProductService (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_part2/ProductService/ProductService (7).iml" filepath="$PROJECT_DIR$/lab9_part2/ProductService/ProductService (7).iml" />
       <module fileurl="file://$PROJECT_DIR$/lab11_part3/SavingAccountService/SavingAccountService.iml" filepath="$PROJECT_DIR$/lab11_part3/SavingAccountService/SavingAccountService.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab11_part1/SecureServiceA/SecureServiceA.iml" filepath="$PROJECT_DIR$/lab11_part1/SecureServiceA/SecureServiceA.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab11_part1/SecureServiceB/SecureServiceB.iml" filepath="$PROJECT_DIR$/lab11_part1/SecureServiceB/SecureServiceB.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab11_part1/SecureServiceC/SecureServiceC.iml" filepath="$PROJECT_DIR$/lab11_part1/SecureServiceC/SecureServiceC.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab10_part2/ServiceA/ServiceA.iml" filepath="$PROJECT_DIR$/lab10_part2/ServiceA/ServiceA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab10_part3/ServiceA/ServiceA (1).iml" filepath="$PROJECT_DIR$/lab10_part3/ServiceA/ServiceA (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab10_part2/ServiceA/ServiceA (1).iml" filepath="$PROJECT_DIR$/lab10_part2/ServiceA/ServiceA (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab10_part3/ServiceA/ServiceA (2).iml" filepath="$PROJECT_DIR$/lab10_part3/ServiceA/ServiceA (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/lab10_part2/ServiceB/ServiceB.iml" filepath="$PROJECT_DIR$/lab10_part2/ServiceB/ServiceB.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab10_part3/ServiceB/ServiceB (1).iml" filepath="$PROJECT_DIR$/lab10_part3/ServiceB/ServiceB (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab10_part2/ServiceB/ServiceB (1).iml" filepath="$PROJECT_DIR$/lab10_part2/ServiceB/ServiceB (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab10_part3/ServiceB/ServiceB (2).iml" filepath="$PROJECT_DIR$/lab10_part3/ServiceB/ServiceB (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/lab5/ShippingService/ShippingService.iml" filepath="$PROJECT_DIR$/lab5/ShippingService/ShippingService.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SoftwareArchitecture.iml" filepath="$PROJECT_DIR$/.idea/SoftwareArchitecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab4/SpringIntegration/SpringIntegration.iml" filepath="$PROJECT_DIR$/lab4/SpringIntegration/SpringIntegration.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab10_part1/StockCommandService/StockCommandService.iml" filepath="$PROJECT_DIR$/lab10_part1/StockCommandService/StockCommandService.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab7/StockService/StockService.iml" filepath="$PROJECT_DIR$/lab7/StockService/StockService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab8/part1/StockService/StockService (1).iml" filepath="$PROJECT_DIR$/lab8/part1/StockService/StockService (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab8/part2/StockService1/StockService (2).iml" filepath="$PROJECT_DIR$/lab8/part2/StockService1/StockService (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab8/part2/StockService2/StockService (3).iml" filepath="$PROJECT_DIR$/lab8/part2/StockService2/StockService (3).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab8/part3/StockService1/StockService (4).iml" filepath="$PROJECT_DIR$/lab8/part3/StockService1/StockService (4).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab8/part3/StockService2/StockService (5).iml" filepath="$PROJECT_DIR$/lab8/part3/StockService2/StockService (5).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part1/StockService/StockService (6).iml" filepath="$PROJECT_DIR$/lab9_part1/part1/StockService/StockService (6).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part2/StockService/StockService (7).iml" filepath="$PROJECT_DIR$/lab9_part1/part2/StockService/StockService (7).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab9_part2/StockService/StockService (8).iml" filepath="$PROJECT_DIR$/lab9_part2/StockService/StockService (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab7/StockService/StockService (1).iml" filepath="$PROJECT_DIR$/lab7/StockService/StockService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8/part1/StockService/StockService (2).iml" filepath="$PROJECT_DIR$/lab8/part1/StockService/StockService (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8/part2/StockService1/StockService (3).iml" filepath="$PROJECT_DIR$/lab8/part2/StockService1/StockService (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8/part2/StockService2/StockService (4).iml" filepath="$PROJECT_DIR$/lab8/part2/StockService2/StockService (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8/part3/StockService1/StockService (5).iml" filepath="$PROJECT_DIR$/lab8/part3/StockService1/StockService (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8/part3/StockService2/StockService (6).iml" filepath="$PROJECT_DIR$/lab8/part3/StockService2/StockService (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part1/StockService/StockService (7).iml" filepath="$PROJECT_DIR$/lab9_part1/part1/StockService/StockService (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_part1/part2/StockService/StockService (8).iml" filepath="$PROJECT_DIR$/lab9_part1/part2/StockService/StockService (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_part2/StockService/StockService (9).iml" filepath="$PROJECT_DIR$/lab9_part2/StockService/StockService (9).iml" />
       <module fileurl="file://$PROJECT_DIR$/lab5/WareHouseService/WareHouseService.iml" filepath="$PROJECT_DIR$/lab5/WareHouseService/WareHouseService.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab8/part3/ZuulGateway/ZuulGateway.iml" filepath="$PROJECT_DIR$/lab8/part3/ZuulGateway/ZuulGateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/BookClient/bookclient.iml" filepath="$PROJECT_DIR$/BookClient/bookclient.iml" />

@@ -10,7 +10,7 @@
         <!--  lookup parent from repository  -->
     </parent>
     <groupId>com.swa</groupId>
-    <artifactId>shopping-cart-query-service</artifactId>
+    <artifactId>swa-cart-query-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ShoppingCartQueryService</name>
     <description>Shopping App ShoppingCartQueryService Application</description>

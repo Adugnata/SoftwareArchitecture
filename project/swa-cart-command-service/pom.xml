@@ -10,7 +10,7 @@
         <!--  lookup parent from repository  -->
     </parent>
     <groupId>com.swa</groupId>
-    <artifactId>shopping-cart-command-service</artifactId>
+    <artifactId>swa-cart-command-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ShoppingCartCommandService</name>
     <description>Shopping App ShoppingCartCommandService Application</description>

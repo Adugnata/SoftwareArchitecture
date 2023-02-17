@@ -10,7 +10,7 @@
         <!--  lookup parent from repository  -->
     </parent>
     <groupId>com.swa</groupId>
-    <artifactId>onwer-service</artifactId>
+    <artifactId>swa-api-gateway</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ApiGateWay</name>
     <description>Shopping App ApiGateWay Application</description>
